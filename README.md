@@ -38,10 +38,11 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
 
 
-## SKETCHS
+## SKETCHES
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![EX 1 1_page-0001](https://user-images.githubusercontent.com/119525603/225586910-0df5c711-ba55-45dc-8972-e8c194c7552d.jpg)
 
 
 ## RESULT
